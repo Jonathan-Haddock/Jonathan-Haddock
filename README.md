@@ -12,4 +12,5 @@
     
 ## 🏁️ Goal
   - Attain a junior dev job in 2026
+  - Write and maintian programs utilizing the performance by default mindset
     
