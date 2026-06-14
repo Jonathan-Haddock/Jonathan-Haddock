@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there, I'm Jonathan. 👋
 
-<!--
-**Jonathan-Haddock/Jonathan-Haddock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Info
+  - 📍️ Salt Lake City, Utah
+  - 📧️ JonathanHaddock89@gmail.com
+  - I am in the middle of a career transition from laboratory QA in the food & beverage, and agrochemical industries to software development. 
+  - I earned a Bachelors' degree in Information Technology in late 2025. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+  - Python fundamentals
+  - Building a portfolio of automation projects
+    
+## 🏁️ Goal
+  - Attain a junior dev job in 2026
+    
